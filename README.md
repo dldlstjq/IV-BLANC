@@ -81,3 +81,11 @@
 소중한 하루를 기록할 수 있습니다. 
 
 여러분은 내일 무엇을 입으실건가요? **입을랑**을 통해 해결하세요!
+
+
+
+### [웹 시나리오] (https://github.com/dldlstjq/IV-BLANC/blob/main/exec/Web%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
+
+
+
+### [모바일 시나리오](https://github.com/dldlstjq/IV-BLANC/blob/main/exec/Mobile_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.pdf)
